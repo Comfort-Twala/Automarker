@@ -1,4 +1,4 @@
-package main;
+package trof.automarker;
 import java.util.ArrayList;
 
 /**

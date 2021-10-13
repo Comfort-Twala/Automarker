@@ -1,4 +1,4 @@
-package test;
+package trof.automarker;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -6,7 +6,6 @@ import java.util.Random;
 
 import org.junit.Test;
 import junit.framework.TestCase;
-import main.ProgramRun;
 
 public class ProgramRunTest extends TestCase {
 

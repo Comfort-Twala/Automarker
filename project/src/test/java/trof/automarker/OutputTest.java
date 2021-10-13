@@ -1,11 +1,10 @@
-package test;
+package trof.automarker;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 
 import org.junit.Test;
 import junit.framework.TestCase;
-import main.Output;
 
 public class OutputTest extends TestCase{
 	
