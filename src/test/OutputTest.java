@@ -1,12 +1,9 @@
 package test;
 
-// import static org.junit.Assert.assertEquals;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 
 import org.junit.Test;
-
 import junit.framework.TestCase;
 import main.Output;
 
@@ -15,6 +12,7 @@ public class OutputTest extends TestCase{
 	private Output output;
 	private	String[] cars;
 	private ArrayList<String> carsList;
+
 	/**
 	 * Setup method	
 	 */
